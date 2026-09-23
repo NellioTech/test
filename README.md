@@ -1,6 +1,9 @@
 # QR Generator
 
-A QR code generator in two versions:
+A QR code generator in two versions.
+
+**▶ Open the app in your browser: https://nelliotech.github.io/test/**
+(no download or install needed)
 
 | File | What it is |
 |---|---|
